@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="w-full flex items-center justify-between px-5 md:px-10 lg:px-[106px] 2xl:px-[106px] py-[10px] font-geo">
+      <div className="w-full flex items-center justify-between px-5 md:px-10 lg:px-[106px] 2xl:px-44 z-50 py-[10px] font-geo bg-white-100 ">
         <div className="logo">
           <img src={fsclogo} alt=""></img>
         </div>
